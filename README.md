@@ -17,3 +17,9 @@ Requirements
 1. The base64 encoded credentials should be sent in requests to protected endpoints.
 1. If a user attempts to view the login form when they're already logged in, they should be redirected to the thing list 1. page.
 1. If a user tries to view reviews for a thing, they should be redirected to the login form page.
+
+## Updates
+
+**Checkpoint 4**
+
+-   You should implement the logout button functionality to clear the token in local storage.
