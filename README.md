@@ -23,3 +23,8 @@ Requirements
 **Checkpoint 4**
 
 -   You should implement the logout button functionality to clear the token in local storage.
+
+**Checkpoint 5**
+
+-   You should update your login form to call the login endpoint and store the JWT from the response in local storage.
+-   Ensure that all the API requests use this token instead of the basic token.
